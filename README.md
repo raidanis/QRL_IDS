@@ -1,4 +1,5 @@
-🔐 QRL-IDS
+#🔐 QRL-IDS
+
 Quantum Reinforcement Learning for Intrusion Detection Systems
 
 QRL-IDS is a research project that explores the use of Quantum Reinforcement Learning (QRL) to improve the detection of cyber-attacks in network environments. The system leverages quantum-inspired learning models to analyze network traffic and classify malicious activities using benchmark cybersecurity datasets.
